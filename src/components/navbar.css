@@ -1,0 +1,18 @@
+.navbar-logo {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.navbar-logo span {
+  font-style: italic;
+  color: burlywood;
+}
+
+.me-auto {
+  font-size: 1.5rem;
+}
+
+.navbar-container .navbar {
+  display: flex;
+  justify-content: space-between;
+}
